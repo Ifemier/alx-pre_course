@@ -1,1 +1,1 @@
-my second commit
+Learning is fun
